@@ -2,7 +2,7 @@ using String;
 
 namespace MatanFirstCsCode.main
 {
-    class main
+    class helloWord
     {
         static void Main(string[] arg)
         {
